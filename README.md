@@ -239,3 +239,6 @@ This repository serves as the official landing page for SAP Crystal Reports View
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of SAP Crystal Reports Viewer today!**
+
+---
+**Last updated:** 2026-09-11 23:56:57 UTC

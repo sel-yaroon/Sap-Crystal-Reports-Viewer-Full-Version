@@ -241,4 +241,4 @@ This repository serves as the official landing page for SAP Crystal Reports View
 **Get the most recent version of SAP Crystal Reports Viewer today!**
 
 ---
-**Last updated:** 2026-09-12 23:56:14 UTC
+**Last updated:** 2026-09-13 04:12:29 UTC
